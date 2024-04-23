@@ -1,0 +1,7 @@
+.App{
+    width: 100%;
+}
+.wrap{
+    min-height: calc(100vh - 30px);
+    margin-top: 40px;
+}
